@@ -1,0 +1,14 @@
+python-dotenv
+pypdf
+lancedb
+langchain
+langgraph
+dspy
+requests
+numpy
+pyarrow
+pandas
+google-generativeai
+# If used:
+# langchain_google_genai
+# langchain_community.vectorstores

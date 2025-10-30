@@ -1,0 +1,2 @@
+agentic_hr
+scripts
