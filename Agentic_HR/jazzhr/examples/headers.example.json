@@ -1,0 +1,9 @@
+{
+  "authorization": "Bearer YOUR_BEARER_TOKEN",
+  "cookie": "YOUR_COOKIE_STRING",
+  "user-agent": "Mozilla/5.0 (...)",
+  "accept": "application/json, text/plain, */*",
+  "accept-language": "en-US,en;q=0.9",
+  "referer": "https://app.jazzhr.com/",
+  "x-requested-with": "XMLHttpRequest"
+}
