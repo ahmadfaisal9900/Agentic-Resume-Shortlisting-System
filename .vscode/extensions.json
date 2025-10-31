@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff",
+    "astral-sh.ty",
+    "tombi-toml.tombi",
+    "meta.pyrefly"
+  ]
+}
